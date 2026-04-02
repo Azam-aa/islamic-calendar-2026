@@ -1,16 +1,27 @@
-# React + Vite
+# 🌙 Islamic Calendar 2026 — Hijri 1447/1448
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, mobile-friendly Islamic Calendar web app showing all 2026 dates with Gregorian-to-Hijri mapping, important Islamic events, and English/Urdu toggle.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 📅 Full 2026 calendar with Hijri dates
+- 🕌 Key events highlighted (Eid, Ramadan, Hajj, Laylatul Qadr)
+- 🌐 English / Urdu toggle with RTL support
+- 🌗 Dark & Light mode
+- 📱 Mobile-first, swipe between months
+- ⚡ Fast — built with React + Vite
 
-## React Compiler
+## 🚀 Run Locally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React · Vite · Tailwind CSS · Zustand · Framer Motion
+
+## 📄 License
+
+MIT
