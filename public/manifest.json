@@ -1,0 +1,16 @@
+{
+  "name": "2026 Islamic Calendar",
+  "short_name": "Islamic Calendar",
+  "description": "2026 Islamic Calendar with Urdu & English – Hijri 1447/1448",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
