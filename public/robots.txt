@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://islamic-calendar-2026-app.vercel.app/sitemap.xml
+Sitemap: https://hijri-calendar-2026-new.vercel.app/sitemap.xml
